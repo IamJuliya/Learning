@@ -3,3 +3,4 @@ It’s all about connecting devices to the internet so they can share informatio
 It is a concept of connecting physical devices to the internet to communicate and exchange data with each other.
 These devices include home appliances, vehicles, industrial machinery, and wearable devices (smart watch, fitness tracker, etc).
 Since these devices are connected to the internet, they can be remotely controlled and monitored enabling a wide range of applications and services.
+Testing
